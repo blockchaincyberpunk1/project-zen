@@ -1,0 +1,9 @@
+.completed-task .card-title,
+.completed-task .card-text,
+.completed-task .card-subtitle {
+  text-decoration: line-through;
+}
+
+.tasks {
+  max-width: 600px;
+}
